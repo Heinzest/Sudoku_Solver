@@ -1,7 +1,7 @@
 # Sudoku_Solver
 Set of programs solving Sudoku puzzle in various ways.
 
-Every single one solves the Sudoku puzzle(s). 
+Every single "main.py" file solves the Sudoku puzzle(s).
 Differences are:
  - type of alghoritm used, 
    - Brute, Bactracking alghoritm,
@@ -13,7 +13,7 @@ Differences are:
  - presence of GUI,
  - possibility of solving multiple puzzles one after another,
 
-Name of file can tell you what type of solver is it.  
+Name of the branch can tell you what type of solver is it.  
 (B) brute, (L) logical,  
 (A) automatic solving, (S) semi automatic solving, (N) non-automatic solving,  
 (G) GUI presence,  
